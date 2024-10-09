@@ -1,0 +1,8 @@
+faiss==1.8.0
+faiss_cpu==1.8.0
+openai==1.51.2
+pandas==2.2.3
+scikit_learn==1.2.2
+torch==2.2.2
+tqdm==4.65.0
+transformers==4.39.3
