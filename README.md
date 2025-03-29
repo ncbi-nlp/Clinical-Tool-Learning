@@ -33,6 +33,8 @@ This repository contains the evaluation scripts for three use cases of AgentMD:
 - **Evaluation with ED patients**. We put the AgentMD code for our experiments with Yale ED provider notes under `./ed_evaluation`. However, due to privacy concerns, we are not able to release the ED provider notes from Yale Medicine. As such, users would need to use their own clinical notes to run it.
 - **Evaluation with MIMIC patients**. The preprocessing code for MIMIC-III notes as well as the AgentMD code are available under `./mimic_evaluation`. One would need to first download and preprocess the MIMIC-III dataset to run the code, following the instructions at `./ed_evaluation`.
 
+In addition, users can also reproduce the curation of RiskCalcs following instructions in `./tool_curation`.
+
 ## Acknowledgments
 
 This research was supported by the NIH Intramural Research Program, National Library of Medicine, and 1K99LM014024.
