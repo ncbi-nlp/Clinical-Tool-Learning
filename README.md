@@ -1,5 +1,7 @@
 # AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning
 
+![image](https://github.com/user-attachments/assets/18e8dbcd-aed8-4f18-be4c-a9b5aea6b002)
+
 ## Introduction
 
 **Background**: Clinical calculators play a vital role in healthcare by offering accurate evidence-based predictions for various purposes, such as diagnosis and prognosis. Nevertheless, their widespread utilization is often hindered by usability challenges and poor dissemination. Augmenting large language models (LLMs) with extensive collections of clinical calculators presents an opportunity to overcome these obstacles and improve workflow efficiency, but the scalability of manual curation and machine adoption poses a significant challenge. 
