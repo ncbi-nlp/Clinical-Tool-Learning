@@ -1,5 +1,7 @@
 # Curating tools with AgentMD
 
+![image](https://github.com/user-attachments/assets/055c8f44-8576-41e6-aaeb-3aa34a40fa36)
+
 ## Step 0: Processing PubMed data
 A full list of PMIDs returned by the Boolean query is shown in `file1_full_classification_results.json`, and the corresponding PubMed abstracts can be downloaded at https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/.
 One can use `file0_sample_candidate_articles.json` to run demonstration scripts in this directory.
