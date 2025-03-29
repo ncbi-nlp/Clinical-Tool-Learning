@@ -12,7 +12,7 @@
 
 ## Configuration
 
-To run TrialGPT, one needs to first set up the OpenAI API either directly through OpenAI or through Microsoft Azure. Here we use Microsoft Azure because it is compliant with the Health Insurance Portability and Accountability Act (HIPAA). Please set the environment variables accordingly:
+To run AgentMD, one needs to first set up the OpenAI API either directly through OpenAI or through Microsoft Azure. Here we use Microsoft Azure because it is compliant with the Health Insurance Portability and Accountability Act (HIPAA). Please set the environment variables accordingly:
 
 ```bash
 export OPENAI_ENDPOINT=YOUR_AZURE_OPENAI_ENDPOINT_URL
