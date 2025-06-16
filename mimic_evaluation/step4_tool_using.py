@@ -78,7 +78,12 @@ def apply_calc(patient, calc):
 		print(response.choices[0].message.content)
 
 		message = response.choices[0].message
-		messages.append(message)
+		messages.append(
+			{
+				"role": message.role,
+				"content": message.content,
+			}
+		)
 
 		if "Summary: " in message.content:
 			return messages, message.content.split("Summary: ")[-1]
